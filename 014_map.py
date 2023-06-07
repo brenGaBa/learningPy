@@ -1,4 +1,4 @@
-### uso de la función map: transformación a cada elemento
+### uso de la función map: transformación a cada elemento AKA interaciones
 numbers = [1, 2, 3, 4]
 
 # Forma que usaba hasta ahora:
