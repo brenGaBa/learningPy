@@ -1,2 +1,1 @@
-import pkg
-print(pkg.mod_1.func_1)
+from pkg.mod_1 import func_1, func_2
